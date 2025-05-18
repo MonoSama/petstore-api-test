@@ -1,4 +1,4 @@
-name: Ejecutar pruebas PetStore
+name: Ejecutar pruebas PetStoree
 on:
   push:
     branches: [ main ]
