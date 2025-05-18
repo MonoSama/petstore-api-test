@@ -1,5 +1,5 @@
 @e2e
-Feature: Crear y recuperar una mascota en Swagger Petstore
+Feature: Crear y recuperar una mascotaa en Swagger Petstore
   Background:
     * url 'https://petstore.swagger.io/v2'
 
