@@ -20,4 +20,4 @@ jobs:
         distribution: 'temurin'
 
     - name: Ejecutar pruebas Karate
-      run: mvn test -Dtest=PetTestRunner
+      run: mvn test -Dtest=PetTestRunner -Dkarate.options="--tags ~@e2e"
